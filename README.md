@@ -1,6 +1,6 @@
 # internet-art-final
 
-This, my final project for the class Intermediate Internet Art, is titled Any HTML. This piece is heavily inspired by [All HTML](http://all-html.net/) by Evan Roth. The main principle behind my piece is using the DOM API to create an interactive, manipulable interpretation of the messages I interpreted from All HTML.
+This, my final project for the class Intermediate Internet Art, is titled Any HTML. This piece is heavily inspired by [All HTML](http://all-html.net/) by Evan Roth. The main principle behind my piece is using the DOM API to create an interactive, manipulable interpretation of the messages I interpreted from All HTML. You can access this project online [here](https://wolfpeyton.github.io/internet-art-final/).
 
 ## Directions For Use
 
