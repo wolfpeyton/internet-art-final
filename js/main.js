@@ -1,5 +1,4 @@
 let sentenceCounter = 1
-let tagClock = 0
 const tags = ['a',
               'abbr',
               'acronym',
@@ -101,10 +100,6 @@ const createNewSentence = (e) => {
   elem.style.minWidth = 10 + 'px'
   elem.style.minHeight = 10 +'px'
   document.body.appendChild(elem)
-}
-
-const duplicateItem = (item) => {
-
 }
 
 const handleClick = (e) => {
