@@ -11,7 +11,7 @@ This, my final project for the class Intermediate Internet Art, is titled Any HT
 
 ## Explanation of Significance
 
-What I intend to communicate with this piece is the possibility to create chaos using only a few simple elements and rules. With the html tags that create every single website available to us, I've created a system that generates permutations of these which a human would almost never create on their own, either because they're not useful or because they're too unwieldy.
+What I intend to communicate with this piece is the possibility to create chaos using only a few simple elements and rules. With the html tags that create every single website available to us, I've created a system that generates permutations of these which a human would almost never create on their own, either because they're not useful or because they're too unwieldy. The result is glitch art and incomprehensibility.
 
 # Examples
 

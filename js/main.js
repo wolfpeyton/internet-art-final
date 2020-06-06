@@ -126,7 +126,6 @@ const iterateToBottom = (elem) => {
 }
 
 const handleKey = (e) => {
-  console.log(e)
   if (e.key === 'ArrowDown') {
     Array.from(document.body.children).forEach(item => nestSentence({ target: iterateToBottom(item).elem}))
   }
